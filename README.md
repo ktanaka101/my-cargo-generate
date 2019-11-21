@@ -8,7 +8,7 @@
 
 ## Contributors
 
-- [{{authors}}](https://github.com/{{authors}}) - creator, maintainer
+- [ktanaka101](https://github.com/ktanaka101) - creator, maintainer
 
 ## License
 
